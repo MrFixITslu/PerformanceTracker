@@ -1,0 +1,6 @@
+{
+  "name": "ICT Team Performance Dashboard",
+  "description": "An interactive dashboard to upload, visualize, and analyze ICT team performance metrics from CSV reports. It calculates KPIs like MTTI, MTTR, and FTR, displays trends, and allows for exporting reports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
